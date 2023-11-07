@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Glebossss/watches.git/static/css/main.063af987.css",
+    "main.js": "/Glebossss/watches.git/static/js/main.bc556e05.js",
+    "static/media/redWatches2.png": "/Glebossss/watches.git/static/media/redWatches2.8288130febdc6d1d2638.png",
+    "static/media/redWatches.png": "/Glebossss/watches.git/static/media/redWatches.eb5df2c463416facdc5c.png",
+    "static/media/redWatches3.png": "/Glebossss/watches.git/static/media/redWatches3.462656468ec825b71672.png",
+    "static/media/blueWatches2.png": "/Glebossss/watches.git/static/media/blueWatches2.2cc4a2d51fefd523d6a9.png",
+    "static/media/blueWatches.png": "/Glebossss/watches.git/static/media/blueWatches.8a025efa055f031905ce.png",
+    "static/media/blueWatches3.png": "/Glebossss/watches.git/static/media/blueWatches3.00a918d8d764b75ddf20.png",
+    "static/media/Watches2.png": "/Glebossss/watches.git/static/media/Watches2.e32eac2e5b01926567fb.png",
+    "static/media/Watches.png": "/Glebossss/watches.git/static/media/Watches.d6e515fc2b5005344830.png",
+    "static/media/Watches3.png": "/Glebossss/watches.git/static/media/Watches3.128e4576536d558e3469.png",
+    "index.html": "/Glebossss/watches.git/index.html",
+    "main.063af987.css.map": "/Glebossss/watches.git/static/css/main.063af987.css.map",
+    "main.bc556e05.js.map": "/Glebossss/watches.git/static/js/main.bc556e05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.063af987.css",
+    "static/js/main.bc556e05.js"
+  ]
+}
